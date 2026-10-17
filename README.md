@@ -1,7 +1,8 @@
 <h1 align="center">Maddie D. Reese</h1>
 
 <p align="center">
-  I build strange, working AI systems with tiny models, old hardware, and physical interfaces, then explain how they work.
+  <strong>@maddiedreese</strong><br>
+  I'm having a ton of fun :)
 </p>
 
 <p align="center">
@@ -52,14 +53,16 @@
   </tr>
 </table>
 
-## What I build
+## About
 
-My projects make technical systems visible. I run language models where they barely fit, give AI tools unfamiliar screens and controls, turn APIs into physical objects, and publish the implementation details so other people can inspect, use, and remix the work.
+Hi!
 
-My background is in education and community building. I care about approachable tools, clear mental models, playful demos, and helping technically curious people become more technical through AI-assisted creation.
+My name's Maddie. Nice to meet you! :)
 
-## Current experiments
+My work sits between AI tools, hardware experiments, local models, public technical demos, online education, community building, and clear explanations. I also dabble in bug bounties, and interactive artwork.
 
-Right now I am exploring local models, constrained inference, collaborative coding agents, retro hardware, e-ink interfaces, and public evaluations.
+I like projects that make tools feel tangible: classic computers, e-ink devices, tiny models, physical interfaces, and prototypes that turn abstract AI workflows into something people can inspect, use, or remix!
 
-For more, visit [maddiedreese.com](https://maddiedreese.com).
+Before focusing on AI projects, I spent 13+ years creating educational content and leading online communities for non-technical audiences, teaching tens of thousands of people how to use tools, workflows, and systems to build online businesses and investment operations.
+
+For work, collaborations, sponsorships, events, or project ideas, visit my website at [https://maddiedreese.com](https://maddiedreese.com) and shoot me an email at [maddie@maddiedreese.com](mailto:maddie@maddiedreese.com)
